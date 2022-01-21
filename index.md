@@ -30,5 +30,5 @@ I am an Embedded Software Engineer with 15+ years experience, located in Valenci
   * QR scanners: Newland EM20-80
 
 <br>
-<a href="https://www.linkedin.com/in/alfonsoespinosaortega/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="drawing" style="width:30px;"/></a>
+<a href="https://www.linkedin.com/in/alfonsoespinosaortega/"><img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" alt="LinkedIn" style="width:30px;"/></a>
 
