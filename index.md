@@ -16,7 +16,7 @@ I am an Embedded Software Engineer with 15+ years experience, located in Valenci
 * RTOS: FreeRTOS, TI‐RTOS
 * LwIP, CycloneTCP
 * GUI: Qt, Kivy, emWin, LVGL
-* RFID (ISO 18000-6C)
+* RFID (ISO 18000-6C), NFC (ISO 14443)
 * REST
 * MQTT
 * JSON
