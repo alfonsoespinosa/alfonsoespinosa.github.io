@@ -1,6 +1,6 @@
-## About me
+## Who am I?
 
-I am an Embedded Software Engineer with 15+ years experience, located in Valencia, Spain. During the last 7 years I have expanded my expertise in firmware development, specialized in the ARM Cortex-M processor family. I have also achieved the necessary competence to carry out developments of embedded Linux applications.
+My name is Alfonso Espinosa. I am an Embedded Software Engineer with 15+ years experience, located in Valencia, Spain. During the last 7 years I have expanded my expertise in firmware development, specialized in the ARM Cortex-M processor family. I have also achieved the necessary competence to carry out developments of embedded Linux applications.
 
 ### What have I been up to?
 
